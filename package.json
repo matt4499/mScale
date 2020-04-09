@@ -1,0 +1,16 @@
+{
+  "name": "mscale",
+  "version": "1.0.0",
+  "description": "upscale video",
+  "main": "scale.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt4499",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security"
+  }
+}
